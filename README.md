@@ -15,6 +15,8 @@ A simple Streamlit app that predicts user subscription likelihood using a machin
 - **scikit-learn** model training and saved via **joblib**  
 - **pandas/numpy** for data handling  
 
+## Live Demo 👉 [here](https://subscription-prediction-app.streamlit.app/)
+
 ## 🧪 Installation & Run
 
 ```bash
